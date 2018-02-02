@@ -85,6 +85,7 @@ class Readme:
                 }
                 for lang in LANG_SETTING.keys():
                     if solution_url_dict.has_key(item.id_) and solution_url_dict[item.id_][lang]:
+                        # 例如：https://github.com/zuimrs/leetcode-algorithms/blob/demo/leetcode-problems/007.%20Reverse%20Integer/reverse-integer.cpp
                         data[lang] = '[:white_check_mark:{0}]({1})'.format(lang,solution_url_dict[item.id_][lang])
                     else:
                         data[lang] = 'TODO'
