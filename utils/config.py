@@ -20,6 +20,7 @@ config字典：
 import ConfigParser
 
 from .common import CONFIG_FILE_PATH
+from .common import LOCAL_FOLDER_PATH
 
 class Config:
     class GithubConfig:
@@ -39,7 +40,7 @@ class Config:
                 self.account = github_account
                 self.password = github_password
             # github上托管的leetcode文件夹
-            self.path_url = ''.join(['https://github.com/',self.account, '/leetcode-algorithms/blob/master/leetcode-algorithms/',])
+            self.path_url = ''.join(['https://github.com/',self.account, '/leetcode-algorithms/blob/demo/{}/'.format(LOCAL_FOLDER_PATH.split('/')[1]),])
             # fork的本项目地址
             if not self.password or self.password != '':
                 self.repository = ''.join(['https://github.com/',self.account,'/leetcode-algorithms.git',])
