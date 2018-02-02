@@ -5,16 +5,3 @@ __pycache__/
 
 # config.ini,保存密码等配置，此项不能删除！！
 config.ini
-
-
-# master分支和develop分支
-
-# json文件
-*.json
-
-# 生成的README
-README.md
-!utils/README.md
-
-# 代码文件
-leetcode-problems
