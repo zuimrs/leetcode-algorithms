@@ -100,9 +100,9 @@ class SolutionTable:
         # 获取github_path_url
         self.__github_path_url = self.__get_url_from_config()
         # solved 字典，每种语言对应AC题目数
-        difficulty = dict(zip(DIFFICULTYS,[0 for i in range(len(DIFFICULTYS))]))#{'Easy':0,'Medium':0, 'Hard':0}
-        self.__solved_num = difficulty
-        self.__solved_num_lang = dict(zip(LANG_SETTING.keys(),[difficulty for i in range(len(LANG_SETTING.keys()))]))
+        self.__solved_num = dict(zip(DIFFICULTYS,[0 for i in range(len(DIFFICULTYS))])) #{'Easy':0,'Medium':0, 'Hard':0}
+        self.__solved_num_by_lang = dict(zip(LANG_SETTING.keys(),
+            [dict(zip(DIFFICULTYS,[0 for i in range(len(DIFFICULTYS))])) for i in range(len(LANG_SETTING.keys()))]))
         # solution_url字典，题目对应代码的链接
         self.__solution_url = {}
         q_table = QuestionTable()
@@ -178,11 +178,12 @@ class SolutionTable:
                 # 代码文件本地路径
                 item_url = os.path.join(folder.replace(' ', "%20"), item)
                 # 更新AC题目数量
-                self.__solved_num_lang[lang][difficulty] += 1
+                self.__solved_num_by_lang[lang][difficulty] += 1
                 # 保存url
                 self.__solution_url[q_index][lang] = os.path.join(self.__github_path_url, item_url)
                 print "  FOUND {0} solution of question:{1};".format(lang,q_index)
 
+        print "\n\n  {}".format(str(self.__solved_num))
         if self.total_solved_num == 0 : # 解题数为0
             print "\n  No solutions,Keep Coding!\n"
         else: # 解题数大于0
