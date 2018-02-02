@@ -95,6 +95,10 @@ class Config:
         # 保存到config.ini
         self.__save_config()
 
+    def set_config(self):
+        self.__input_config_from_keyboard()
+        self.__save_config()
+
     @property
     def github_url(self):
         return self.__github_config.path_url

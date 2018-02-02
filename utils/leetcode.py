@@ -171,7 +171,7 @@ class SolutionTable:
 
                 # 若文件不合法
                 if not lang:
-                    print "   Unknown file: {0} of question:{1}".format(item,q_index)
+                    print "  Unknown file: {0} of question:{1}".format(item,q_index)
                     continue
 
                 # 文件合法
@@ -181,12 +181,12 @@ class SolutionTable:
                 self.__solved_num_lang[lang][difficulty] += 1
                 # 保存url
                 self.__solution_url[q_index][lang] = os.path.join(self.__github_path_url, item_url)
-                print "   FOUND {0} solution of question:{1};".format(lang,q_index)
+                print "  FOUND {0} solution of question:{1};".format(lang,q_index)
 
         if self.total_solved_num == 0 : # 解题数为0
-            print "\n\tNo solutions,Keep Coding!\n"
+            print "\n  No solutions,Keep Coding!\n"
         else: # 解题数大于0
-            print "\n\tThere are {} AC questions,Keep Coding!\n".format(self.total_solved_num)
+            print "\n  There are {} AC questions,Keep Coding!\n".format(self.total_solved_num)
 
         print "\n-------Update solution table completed-------\n"
 
