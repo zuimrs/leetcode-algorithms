@@ -9,14 +9,14 @@
 <p align="center">
     <b>Language: ['cpp', 'python', 'c']</b>
     <br>
-    <b>Last updated: 2018-02-03 00:16:45</b>
+    <b>Last updated: 2018-02-03 01:04:12</b>
     <br><br>
 </p>
 <p align="center">
     <a href="https://leetcode.com/zuimrs/"><img src="https://img.shields.io/badge/Solved/Total(Locked)-95/690(131)-orange.svg" alt=""></a>
     <img src="https://img.shields.io/badge/Hard-0-red.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-4-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-186-yellow.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-2-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-93-yellow.svg" alt="">
 </p>
 
 ----------------
