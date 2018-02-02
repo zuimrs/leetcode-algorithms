@@ -332,15 +332,15 @@ def save_solution_code(folder_path,file_name,content,user_account):
 
     # 文件内容
     content_text = \
-    '{0}\r\n'
+    ('{0}\r\n'
     '{1}File: {3}'
     '{1}https://leetcode.com/problems/{4}/\r\n'
     '{1}By {5}\r\n'
-    '{1}Runtime:\t{6}\r\n'
-    '{1}Language:\t{7}\r\n'
+    '{1}Runtime:  {6}\r\n'
+    '{1}Language: {7}\r\n'
     '{2}\r\n'
     '\r\n'
-    '{8}'.format(
+    '{8}').format(
         LANG_SETTING[content['lang']]['prefix'],#{0}
         LANG_SETTING[content['lang']]['middle'],#{1}
         LANG_SETTING[content['lang']]['suffix'],#{2}
@@ -351,7 +351,6 @@ def save_solution_code(folder_path,file_name,content,user_account):
         content['lang'],#{7}
         content['code'],#{8}
     )
-
     return tools.write_into_file(filepath=file_path,content=content_text)
 
 
