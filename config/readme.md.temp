@@ -1,0 +1,20 @@
+<p align="center"><img width="300" src="{0}"></p>
+<p align="center">
+<a href="https://leetcode.com/{1}/"><img src="https://img.shields.io/badge/LeetCode-{1}-blue.svg" alt=""></a>
+<a href="https://leetcode.com/{1}/"><img src="https://img.shields.io/badge/Ranking-{2}-yellowgreen.svg" alt=""></a>
+</br>
+</p>
+<h3 align="center">Keep coding,Keep living.</h3>
+
+<p align="center">
+    <b>Language: {9}</b>
+    <br>
+    <b>Last updated: {10}</b>
+    <br><br>
+</p>
+<p align="center">
+    <a href="https://leetcode.com/{1}/"><img src="https://img.shields.io/badge/Solved/Total(Locked)-{3}/{4}({5})-orange.svg" alt=""></a>
+    <img src="https://img.shields.io/badge/Hard-{6}-red.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-{7}-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-{8}-yellow.svg" alt="">
+</p>
