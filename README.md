@@ -9,14 +9,14 @@
 <p align="center">
     <b>Language: ['cpp', 'python', 'c']</b>
     <br>
-    <b>Last updated: 2018-02-03 01:04:12</b>
+    <b>Last updated: 2018-03-01 22:13:27</b>
     <br><br>
 </p>
 <p align="center">
-    <a href="https://leetcode.com/zuimrs/"><img src="https://img.shields.io/badge/Solved/Total(Locked)-95/690(131)-orange.svg" alt=""></a>
+    <a href="https://leetcode.com/zuimrs/"><img src="https://img.shields.io/badge/Solved/Total(Locked)-96/690(131)-orange.svg" alt=""></a>
     <img src="https://img.shields.io/badge/Hard-0-red.svg" alt="">
     <img src="https://img.shields.io/badge/Medium-2-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-93-yellow.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-94-yellow.svg" alt="">
 </p>
 
 ----------------
@@ -201,7 +201,7 @@
 |186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/description/) :lock:|Medium|TODO|TODO|TODO|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/) |Medium|TODO|TODO|TODO|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/) |Hard|TODO|TODO|TODO|
-|189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) |Easy|TODO|TODO|TODO|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/description/) |Easy|[:white_check_mark:cpp](https://github.com/zuimrs/leetcode-algorithms/blob/demo/leetcode-problems/189.%20Rotate%20Array/rotate-array.cpp)|TODO|TODO|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) |Easy|TODO|TODO|TODO|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) |Easy|TODO|TODO|TODO|
 |198|[House Robber](https://leetcode.com/problems/house-robber/description/) |Easy|[:white_check_mark:cpp](https://github.com/zuimrs/leetcode-algorithms/blob/demo/leetcode-problems/198.%20House%20Robber/house-robber.cpp)|TODO|TODO|
