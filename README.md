@@ -9,14 +9,14 @@
 <p align="center">
     <b>Language: ['cpp', 'python', 'c']</b>
     <br>
-    <b>Last updated: 2018-03-01 22:13:27</b>
+    <b>Last updated: 2018-03-08 01:02:56</b>
     <br><br>
 </p>
 <p align="center">
-    <a href="https://leetcode.com/zuimrs/"><img src="https://img.shields.io/badge/Solved/Total(Locked)-96/690(131)-orange.svg" alt=""></a>
+    <a href="https://leetcode.com/zuimrs/"><img src="https://img.shields.io/badge/Solved/Total(Locked)-103/710(132)-orange.svg" alt=""></a>
     <img src="https://img.shields.io/badge/Hard-0-red.svg" alt="">
-    <img src="https://img.shields.io/badge/Medium-2-green.svg" alt="">
-    <img src="https://img.shields.io/badge/Easy-94-yellow.svg" alt="">
+    <img src="https://img.shields.io/badge/Medium-4-green.svg" alt="">
+    <img src="https://img.shields.io/badge/Easy-99-yellow.svg" alt="">
 </p>
 
 ----------------
@@ -38,7 +38,7 @@
 |013|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) |Easy|TODO|TODO|TODO|
 |014|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) |Easy|TODO|TODO|TODO|
 |015|[3Sum](https://leetcode.com/problems/3sum/description/) |Medium|TODO|TODO|TODO|
-|016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |Medium|TODO|TODO|TODO|
+|016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) |Medium|[:white_check_mark:cpp](https://github.com/zuimrs/leetcode-algorithms/blob/demo/leetcode-problems/016.%203Sum%20Closest/3sum-closest.cpp)|TODO|TODO|
 |017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) |Medium|TODO|TODO|TODO|
 |018|[4Sum](https://leetcode.com/problems/4sum/description/) |Medium|TODO|TODO|TODO|
 |019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) |Medium|TODO|TODO|TODO|
@@ -420,7 +420,7 @@
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) |Easy|[:white_check_mark:cpp](https://github.com/zuimrs/leetcode-algorithms/blob/demo/leetcode-problems/412.%20Fizz%20Buzz/fizz-buzz.cpp)|TODO|TODO|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/) |Medium|TODO|TODO|TODO|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/) |Easy|[:white_check_mark:cpp](https://github.com/zuimrs/leetcode-algorithms/blob/demo/leetcode-problems/414.%20Third%20Maximum%20Number/third-maximum-number.cpp)|TODO|TODO|
-|415|[Add Strings](https://leetcode.com/problems/add-strings/description/) |Easy|TODO|TODO|TODO|
+|415|[Add Strings](https://leetcode.com/problems/add-strings/description/) |Easy|[:white_check_mark:cpp](https://github.com/zuimrs/leetcode-algorithms/blob/demo/leetcode-problems/415.%20Add%20Strings/add-strings.cpp)|TODO|TODO|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) |Medium|TODO|TODO|TODO|
 |417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/) |Medium|TODO|TODO|TODO|
 |418|[Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/description/) :lock:|Medium|TODO|TODO|TODO|
@@ -487,7 +487,7 @@
 |491|[Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/description/) |Medium|TODO|TODO|TODO|
 |492|[Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/description/) |Easy|[:white_check_mark:cpp](https://github.com/zuimrs/leetcode-algorithms/blob/demo/leetcode-problems/492.%20Construct%20the%20Rectangle/construct-the-rectangle.cpp)|TODO|TODO|
 |493|[Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/) |Hard|TODO|TODO|TODO|
-|494|[Target Sum](https://leetcode.com/problems/target-sum/description/) |Medium|TODO|TODO|TODO|
+|494|[Target Sum](https://leetcode.com/problems/target-sum/description/) |Medium|[:white_check_mark:cpp](https://github.com/zuimrs/leetcode-algorithms/blob/demo/leetcode-problems/494.%20Target%20Sum/target-sum.cpp)|TODO|TODO|
 |495|[Teemo Attacking](https://leetcode.com/problems/teemo-attacking/description/) |Medium|TODO|TODO|TODO|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/) |Easy|TODO|TODO|TODO|
 |498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/) |Medium|TODO|TODO|TODO|
@@ -517,7 +517,7 @@
 |529|[Minesweeper](https://leetcode.com/problems/minesweeper/description/) |Medium|TODO|TODO|TODO|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) |Easy|TODO|TODO|TODO|
 |531|[Lonely Pixel I](https://leetcode.com/problems/lonely-pixel-i/description/) :lock:|Medium|TODO|TODO|TODO|
-|532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/) |Easy|TODO|TODO|TODO|
+|532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/) |Easy|[:white_check_mark:cpp](https://github.com/zuimrs/leetcode-algorithms/blob/demo/leetcode-problems/532.%20K-diff%20Pairs%20in%20an%20Array/k-diff-pairs-in-an-array.cpp)|TODO|TODO|
 |533|[Lonely Pixel II](https://leetcode.com/problems/lonely-pixel-ii/description/) :lock:|Medium|TODO|TODO|TODO|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/description/) |Medium|TODO|TODO|TODO|
 |536|[Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string/description/) :lock:|Medium|TODO|TODO|TODO|
@@ -582,7 +582,7 @@
 |630|[Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/) |Hard|TODO|TODO|TODO|
 |631|[Design Excel Sum Formula](https://leetcode.com/problems/design-excel-sum-formula/description/) :lock:|Hard|TODO|TODO|TODO|
 |632|[Smallest Range](https://leetcode.com/problems/smallest-range/description/) |Hard|TODO|TODO|TODO|
-|633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/) |Easy|TODO|TODO|TODO|
+|633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/description/) |Easy|[:white_check_mark:cpp](https://github.com/zuimrs/leetcode-algorithms/blob/demo/leetcode-problems/633.%20Sum%20of%20Square%20Numbers/sum-of-square-numbers.cpp)|TODO|TODO|
 |634|[Find the Derangement of An Array](https://leetcode.com/problems/find-the-derangement-of-an-array/description/) :lock:|Medium|TODO|TODO|TODO|
 |635|[Design Log Storage System](https://leetcode.com/problems/design-log-storage-system/description/) :lock:|Medium|TODO|TODO|TODO|
 |636|[Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/description/) |Medium|TODO|TODO|TODO|
@@ -601,7 +601,7 @@
 |650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/description/) |Medium|TODO|TODO|TODO|
 |651|[4 Keys Keyboard](https://leetcode.com/problems/4-keys-keyboard/description/) :lock:|Medium|TODO|TODO|TODO|
 |652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/description/) |Medium|TODO|TODO|TODO|
-|653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/) |Easy|TODO|TODO|TODO|
+|653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/) |Easy|[:white_check_mark:cpp](https://github.com/zuimrs/leetcode-algorithms/blob/demo/leetcode-problems/653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST/two-sum-iv-input-is-a-bst.cpp)|TODO|TODO|
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/) |Medium|TODO|TODO|TODO|
 |655|[Print Binary Tree](https://leetcode.com/problems/print-binary-tree/description/) |Medium|TODO|TODO|TODO|
 |656|[Coin Path](https://leetcode.com/problems/coin-path/description/) :lock:|Hard|TODO|TODO|TODO|
@@ -703,7 +703,7 @@
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/description/) |Medium|TODO|TODO|TODO|
 |764|[Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/description/) |Medium|TODO|TODO|TODO|
 |765|[Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/description/) |Hard|TODO|TODO|TODO|
-|766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) |Easy|TODO|TODO|TODO|
+|766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/) |Easy|[:white_check_mark:cpp](https://github.com/zuimrs/leetcode-algorithms/blob/demo/leetcode-problems/766.%20Toeplitz%20Matrix/toeplitz-matrix.cpp)|TODO|TODO|
 |767|[Reorganize String](https://leetcode.com/problems/reorganize-string/description/) |Medium|TODO|TODO|TODO|
 |768|[Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/description/) |Hard|TODO|TODO|TODO|
 |769|[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/description/) |Medium|TODO|TODO|TODO|
@@ -713,3 +713,23 @@
 |773|[Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/description/) |Hard|TODO|TODO|TODO|
 |774|[Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/description/) :lock:|Hard|TODO|TODO|TODO|
 |775|[Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/description/) |Medium|TODO|TODO|TODO|
+|776|[Split BST](https://leetcode.com/problems/split-bst/description/) :lock:|Medium|TODO|TODO|TODO|
+|777|[Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/description/) |Medium|TODO|TODO|TODO|
+|778|[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/) |Hard|TODO|TODO|TODO|
+|779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/) |Medium|TODO|TODO|TODO|
+|780|[Reaching Points](https://leetcode.com/problems/reaching-points/description/) |Hard|TODO|TODO|TODO|
+|781|[Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/description/) |Medium|TODO|TODO|TODO|
+|782|[Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/description/) |Hard|TODO|TODO|TODO|
+|783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) |Easy|TODO|TODO|TODO|
+|784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) |Easy|TODO|TODO|TODO|
+|785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) |Medium|TODO|TODO|TODO|
+|786|[K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/) |Hard|TODO|TODO|TODO|
+|787|[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) |Medium|TODO|TODO|TODO|
+|788|[Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) |Easy|TODO|TODO|TODO|
+|789|[Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/description/) |Medium|TODO|TODO|TODO|
+|790|[Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/) |Medium|TODO|TODO|TODO|
+|791|[Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) |Medium|TODO|TODO|TODO|
+|792|[Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/) |Medium|TODO|TODO|TODO|
+|793|[Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/description/) |Hard|TODO|TODO|TODO|
+|794|[Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/description/) |Medium|TODO|TODO|TODO|
+|795|[Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/description/) |Medium|TODO|TODO|TODO|
